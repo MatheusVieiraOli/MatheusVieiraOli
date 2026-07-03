@@ -7,8 +7,7 @@
 
 ## 🎯 About me
  
-- 💻 I build **websites and web systems** with performance, usability, and conversion in mind — not just clean code, but code that solves real business problems.
-- 🎯 Every project starts with a goal: more leads, more sales, or a smoother user experience.
+- 💻 I build **websites and web systems** — not just clean code, but code that solves real business problems.
 - 🌱 Constantly leveling up with modern development practices and tools.
 - 📈 Currently open to freelance projects and new opportunities.
 <br/>
