@@ -1,5 +1,3 @@
-<div align="center">
-
 # 👋 Hi, I'm Matheus Vieira
  
 ### Web Developer building sites & systems that drive real results
